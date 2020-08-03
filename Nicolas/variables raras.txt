@@ -1,0 +1,22 @@
+cuotas_faltantes
+cuotas_faltantes_1
+cuotas_faltantes_2
+importe_consumos
+importe_consumos_ant_1
+importe_consumos_ant_2
+SaldoPromedioCCAcreedor_ant_1
+SaldoPromedioCCAcreedor_ant_2
+SaldoPromedioCADolares_ant_1
+SaldoPromedioCADolares_ant_2
+cant_PP_ant_2
+cant_PF_ant_2
+cuotas_faltantes
+cant_PP_ant_1
+cant_PF_ant_1
+cuotas_faltantes_1
+SaldoPromedioCCAcreedor
+SaldoPromedioCADolares
+Edad (después fijarase bien)
+importe_consumos
+cant_PP
+cant_PF
